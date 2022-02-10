@@ -50,5 +50,9 @@ def generate_password():
             print()
             print('---------- DO ZOBACZENIA! ----------')
             print()
+        else:
+            print()
+            print('Podano błędną opcję!')
+            print()
 
 generate_password()
